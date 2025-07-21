@@ -1,6 +1,6 @@
 # 🌐 IP Address Tracker
 
-![IP Tracker](https://user-images.githubusercontent.com/yourusername/ip-tracker-banner.png)  
+![IP Tracker](https://i.imgur.com/F4Tpzor.png)  
 *Track the location of any IP address or domain in real time!*
 
 ---
@@ -62,8 +62,7 @@ ip-address-tracker/
 
 ## 🔗 Live Demo
 
-Try it yourself here: https://your-live-demo-link.com
-
+Try it yourself here: https://isameersah.github.io/IP-Address-Tracker/
 ---
 
 ## 🤝 Contributing
