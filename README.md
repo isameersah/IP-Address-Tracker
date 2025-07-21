@@ -49,14 +49,14 @@ Open the index.html file in your favorite browser (Chrome, Firefox, Edge, etc.).
 Enter any IP address or domain name in the search bar and press Enter or click Search. The map and details will update accordingly.
 
 ## 📂 Project Structure
-
+```
 ip-address-tracker/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # CSS styles
 ├── script.js          # JavaScript for fetching and UI updates
 └── README.md          # This README file
-
+```
 
 ---
 
